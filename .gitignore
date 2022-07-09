@@ -1,0 +1,9 @@
+# sample files
+*.wav
+
+# cache
+__pycache__/
+sound_utils/__pycache__/
+
+# scripts
+scripts/
