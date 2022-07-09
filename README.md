@@ -5,4 +5,4 @@ them as a matplotlib plot.
 
 Usage: python(3) main.py \<filename>
 
-![Screenshot](https://imgur.com/a/3QZnPRE)
+![Screenshot](https://i.imgur.com/f279XgT.jpeg)
